@@ -1,3 +1,5 @@
+## This project will work as a frontend client for the API: https://github.com/uncg-csc372/express-routes
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
