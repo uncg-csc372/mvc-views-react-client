@@ -30,7 +30,7 @@ const GameDetailsComponent = () => {
           <p className="card-text" >{game.rating}</p>
         </div>
         <div className="card-footer text-body-secondary">
-          <Link to="/game" className="card-link">Games List</Link>
+          <Link to="/games" className="card-link">Games List</Link>
         </div>
       </div>
     </div>
